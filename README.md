@@ -1,7 +1,7 @@
 ### Hi there 👋
- 🔭Hi,I'm dinesh babu
- 🌱 I’m currently learning web developement MERN stack
-  How to reach me dineshsachin393@gmail.com
+ -🔭Hi,I'm dinesh babu
+ -🌱 I’m currently learning web developement MERN stack
+ - How to reach me dineshsachin393@gmail.com
 
 <!--
 **R-Dineshbabu/R-Dineshbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
