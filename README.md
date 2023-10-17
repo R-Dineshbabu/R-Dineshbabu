@@ -1,6 +1,6 @@
 ### Hi there 👋
  🔭Hi,I'm dinesh babu
- 🌱 I’m currently learning web developement
+ 🌱 I’m currently learning web developement MERN stack
   How to reach me dineshsachin393@gmail.com
 
 <!--
