@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 💬 Ask me about **Reactjs,Redux,NodeJS,ExpressJS,HTML,CSS,JS**
+- 💬 Ask me about **Reactjs,Redux,Mysql,MangoDB,NodeJS,ExpressJS,HTML,CSS,JS**
 
 - 📫 How to reach me **dineshsachin393@gmail.com**
 
