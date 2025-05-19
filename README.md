@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinesh babu R</h1>
-<h3 align="center">A passionate full stack developer from Tamilnadu</h3>
+<h3 align="center">A passionate full stack web developer from Tamilnadu</h3>
 
 - 🔭 I’m currently working on **Web development**
-
-- 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **Reactjs,Redux,NodeJS,ExpressJS,HTML,CSS,JS**
 
