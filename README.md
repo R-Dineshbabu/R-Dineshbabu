@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinesh babu R</h1>
 <h3 align="center">A passionate full stack web developer from Tamilnadu</h3>
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m  a **Full stack MERN developer in HCL**
 
 - 💬 Ask me about **Reactjs,Redux,Mysql,MangoDB,NodeJS,ExpressJS,HTML,CSS,JS**
 
